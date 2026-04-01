@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MSSIOEP Presentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;700;800&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+  <link rel="stylesheet" href="madrasa_presentation.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <h1>মাদ্রাসা শিক্ষার্থীদের দক্ষতা উন্নয়ন কর্মসূচি</h1>
+        <p>মাদ্রাসা শিক্ষার্থী উন্নয়ন প্রকল্প | Dynamic Slides</p>
+      </div>
+      <ul class="nav-list" id="navList"></ul>
+    </aside>
+
+    <main class="workspace">
+      <div class="toolbar">
+        <div class="progress-wrap"><div class="progress" id="progressBar"></div></div>
+        <div class="counter" id="slideCounter">1 / 1</div>
+        <div class="controls">
+          <button class="btn" id="prevBtn">Prev</button>
+          <button class="btn" id="nextBtn">Next</button>
+        </div>
+      </div>
+      <section class="deck" id="deck"></section>
+    </main>
+  </div>
+
+  <script src="madrasa_presentation.js"></script>
+</body>
+</html>
