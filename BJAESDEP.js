@@ -1,164 +1,160 @@
     const projectData = {
       meta: {
         country: "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
-        titleBn: "মাদ্রাসা শিক্ষার্থীদের দক্ষতা উন্নয়ন ও বৈদেশিক কর্মসংস্থান বিষয়ক কর্মসূচি",
-        titleEn: "Madrasa Student Skill Integration & Overseas Employment Program (MSSIOEP)",
-        duration: "৫ বছর",
-        targetStudents: "১০ লক্ষ",
-        targetOverseas: "৩ লক্ষ",
-        targetEntrepreneurs: "২ লক্ষ"
+        titleBn: "বাংলাদেশ-জাপান উন্নত প্রকৌশলী দক্ষতা উন্নয়ন ও কর্মসংস্থান কর্মসূচি (BJAESDEP)",
+        titleEn: "Bangladesh–Japan Advanced Engineering Skills Development & Employment Program",
+        duration: "১ বছর",
+        targetStudents: "৫০০ জন",
+        targetOverseas: "২০০ জন",
+        targetEntrepreneurs: "প্রযুক্তিনির্ভর কর্মসংস্থান উদ্ভাবক"
       },
       context: [
-        "বাংলাদেশের আলিয়া ও কওমি মাদ্রাসা থেকে প্রতিবছর বিপুল সংখ্যক শিক্ষার্থী সনদ সম্পন্ন করছে, কিন্তু টেকনিক্যাল ও কর্মমুখী শিক্ষার সাথে সরাসরি সংযোগ কম।",
-        "২০১৮ সালে Al-Haiatul Ulya Lil-Jamiatil Qawmia Bangladesh-এর আওতায় দাওরায়ে হাদিস সনদের মাস্টার্স সমমান স্বীকৃতি প্রদান নতুন সুযোগ তৈরি করেছে।",
-        "ধর্মীয় জ্ঞান, নৈতিকতা ও শৃঙ্খলার সাথে আধুনিক দক্ষতা সংযুক্ত করলে দেশীয় ও বৈদেশিক শ্রমবাজারে শক্তিশালী মানবসম্পদ তৈরি হবে।"
+        "বাংলাদেশে প্রতিবছর উল্লেখযোগ্য সংখ্যক প্রকৌশলী স্নাতক সম্পন্ন হলেও জাপানি ভাষার দক্ষতা ও আন্তর্জাতিক শিল্পমানের সাথে প্রযুক্তিগত আংশিক ঘাটতি বিদ্যমান।",
+        "জাপানে সেমিকন্ডাক্টর, রোবটিক্স, অটোমেশন এবং সফটওয়্যার শিল্পে দ্রুত সম্প্রসারণের ফলে দক্ষ প্রকৌশলীর চাহিদা ব্যাপক বৃদ্ধি পেয়েছে।",
+        "এই দুই বাস্তবতা সমন্বিত করে বাংলাদেশ থেকে উচ্চ দক্ষতাসম্পন্ন প্রকৌশলীদের আন্তর্জাতিক মানসম্পন্ন প্রশিক্ষণ দিয়ে জাপানের শ্রমবাজারে যুক্ত করা একটি যুগোপযোগী ও অর্থনৈতিকভাবে উচ্চ-রিটার্নসম্পন্ন উদ্যোগ।"
       ],
       agencies: [
-        "Ministry of Education",
-        "Islamic Foundation Bangladesh",
-        "Al-Haiatul Ulya Lil-Jamiatil Qawmia Bangladesh",
-        "Ministry of Expatriates' Welfare and Overseas Employment",
-        "Bureau of Manpower, Employment and Training",
-        "Department of Youth Development",
-        "ICT Division"
+        "প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়",
+        "শিক্ষা মন্ত্রণালয়",
+        "আইসিটি বিভাগ",
+        "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+        "জাতীয় দক্ষতা উন্নয়ন কর্তৃপক্ষ (NSDA)",
+        "পররাষ্ট্র মন্ত্রণালয় ও বাংলাদেশ দূতাবাস, টোকিও"
       ],
       objectives: [
-        "৫ বছরে ১০ লক্ষ শিক্ষার্থীকে কারিগরি ও ভাষা প্রশিক্ষণ",
-        "৩ লক্ষ শিক্ষার্থীকে বৈদেশিক কর্মসংস্থানে সংযুক্তকরণ",
-        "২ লক্ষ শিক্ষার্থীকে উদ্যোক্তা হিসেবে গড়ে তোলা",
-        "ধর্মীয় ও আধুনিক শিক্ষার সমন্বয়",
-        "নারী-পুরুষ উভয়ের জন্য ফলাফলের ভিত্তিতে সহায়তা",
-        "উন্নত বৈশ্বিক শিক্ষার প্রক্রিয়া সহজিকরণ"
+        "৫০০ জন প্রকৌশলী শিক্ষার্থীকে জাপানি ভাষা (JLPT N5-N3) ও প্রযুক্তিগত দক্ষতা প্রশিক্ষণ প্রদান",
+        "অন্তত ২০০ জনকে জাপানে চাকরি, ইন্টার্নশিপ বা উচ্চশিক্ষায় সংযুক্ত করা",
+        "Japan Ready Engineer শীর্ষক একটি সরকার-স্বীকৃত দক্ষতা সার্টিফিকেশন কাঠামো প্রতিষ্ঠা",
+        "উচ্চ দক্ষ রেমিট্যান্স প্রবাহ বৃদ্ধি এবং বৈশ্বিক শ্রমবাজারে পজিটিভ ব্র্যান্ড ইমেজ তৈরি",
+        "প্রযুক্তিনির্ভর মানবসম্পদ তৈরি করে ব্রেইন ড্রেইন নয়, ব্রেইন সার্কুলেশন নিশ্চিত করা"
       ],
       implementation: {
         curriculum: [
-          "দাখিল/আলিম পর্যায়ে ভোকেশনাল সাবজেক্ট সংযোজন",
-          "আরবি + ইংরেজি + আন্তর্জাতিক ভাষা প্রশিক্ষণ",
-          "আইসিটি বাধ্যতামূলক করা"
+          "সফটওয়্যার ডেভেলপমেন্ট ও ক্লাউড কম্পিউটিং",
+          "এআই (AI) ও ডাটা অ্যানালিটিক্স",
+          "এমবেডেড সিস্টেম (Embedded System)",
+          "অটোমেশন ও রোবটিক্স (Automation & Robotics)"
         ],
         localTracks: [
-          "কম্পিউটার ও আইটি",
-          "গ্রাফিক ডিজাইন",
-          "মোবাইল/ইলেকট্রনিক্স রিপেয়ারিং",
-          "অনলাইন ইসলামিক কনটেন্ট ডেভেলপমেন্ট",
-          "ই-কমার্স",
-          "এগ্রো-প্রসেসিং",
-          "হস্তশিল্প, টেইলারিং, ড্রাইভিং, শেফ/কিচেন ম্যানেজমেন্ট"
+          "আইটি এবং সফটওয়্যার ইঞ্জিনিয়ারিং",
+          "ইলেকট্রনিক্স ও মেকানিক্যাল ডিজাইন",
+          "ডেটা সায়েন্স ও ক্লাউড ইনফ্রাস্ট্রাকচার",
+          "স্মার্ট বাংলাদেশ উপযোগী প্রযুক্তি উদ্ভাবন",
+          "শিল্প ৪.০ উপযোগী স্টার্টআপ ও মেন্টরিং"
         ],
         overseasTracks: [
-          "কেয়ারগিভার",
-          "ইমাম/ধর্মীয় শিক্ষক (মধ্যপ্রাচ্য)",
-          "ইসলামিক সেন্টার প্রশাসনিক সহকারী",
-          "অনুবাদক ও দোভাষী",
-          "হসপিটালিটি সাপোর্ট",
-          "টেকনিক্যাল ট্রেড"
+          "সফটওয়্যার ইঞ্জিনিয়ার / আইটি স্পেশালিস্ট",
+          "অটোমেশন ও রোবোটিক্স ইঞ্জিনিয়ার",
+          "ডেটা সায়েন্টিস্ট ও এআই ইঞ্জিনিয়ার",
+          "এমবেডেড সিস্টেম ডেভেলপার",
+          "ইন্ডাস্ট্রিয়াল আইওটি (IoT) এক্সপার্ট"
         ]
       },
       overseasProgram: {
-        languageAndCulture: "মধ্যপ্রাচ্যভিত্তিক কর্মসংস্থানের জন্য উন্নত আরবি কথোপকথন ও কালচারাল ওরিয়েন্টেশন",
+        languageAndCulture: "জাপানের কর্মপরিবেশের জন্য জেএলপিটি (JLPT) ভিত্তিক ভাষা প্রশিক্ষণ এবং কাইজেন, ৫এস ও বিজনেস এটিকেট অন্তর্ভুক্ত কালচারাল ওরিয়েন্টেশন",
         readiness: [
-          "স্কিল অ্যাসেসমেন্ট ও সার্টিফিকেশন",
-          "লাইসেন্সিং ও সরকারি যাচাইকরণ",
-          "কালচারাল ও শ্রম আইন প্রশিক্ষণ",
-          "সরকারি ডিজিটাল নিবন্ধন ও পৃথক স্কিল ডাটাবেজ"
+          "জাপান রিক্রুটমেন্ট সামিট ও ভার্চুয়াল ইন্টারভিউ",
+          "স্কিল অ্যাসেসমেন্ট ও সার্টিফিকেশন (Japan Ready Engineer)",
+          "ভিসা সহায়তা এবং লাইসেন্সিং",
+          "ইন্টারন্যাশনাল প্লেসমেন্ট এবং প্লেসমেন্ট-পরবর্তী মনিটরিং"
         ]
       },
       islamicEntrepreneurship: [
-        "ইসলামিক মাইক্রোফাইন্যান্স / শরিয়াহ-সম্মত ক্ষুদ্র ঋণ",
-        "শরিয়াহ-সম্মত বিনিয়োগ স্কিম",
-        "অনলাইন ইসলামিক শিক্ষা প্ল্যাটফর্ম",
-        "ইসলামিক বই প্রকাশনা",
+        "দেশীয় ও আন্তর্জাতিক আইটি স্টার্টআপ",
+        "জাপান ও বাংলাদেশের মধ্যে প্রযুক্তি অংশীদারিত্ব",
+        "স্মার্ট ইকোনমি ও ডিজিটাল রূপান্তর উদ্ভাবন",
+        "জাপানি প্রযুক্তি স্থানান্তর এবং স্থানীয় ইকোসিস্টেম উন্নয়ন",
         "হালাল ফুড ও এগ্রো উদ্যোগ",
-        "বিনা সুদে সরকারি ঋণ সহায়তা"
+        "বিনা সুদে পলিসি সহায়তা"
       ],
       trainingModel: [
-        "সচেতনতা ও রেজিস্ট্রেশন",
-        "বেসিক আইটি ও ভাষা প্রশিক্ষণ",
-        "নির্দিষ্ট ট্রেড নির্বাচন",
-        "সার্টিফিকেশন",
-        "দেশীয়/বিদেশি প্লেসমেন্ট"
+        "অনলাইন আবেদন ও মনস্তাত্ত্বিক মূল্যায়নের মাধ্যমে নির্বাচন",
+        "N5 থেকে N3 লক্ষ্যমাত্রায় জাপানি ভাষা প্রশিক্ষণ",
+        "প্রযুক্তিগত বিশেষজ্ঞ প্রশিক্ষণ ও ক্যাপস্টোন প্রজেক্ট",
+        "সফট স্কিল এবং ইন্টারভিউ প্রস্তুতি",
+        "জাপানি কোম্পানির সাথে সংযোগ ও প্লেসমেন্ট"
       ],
       budget: [
-        { sector: "কারিকুলাম উন্নয়ন", amount: 300 },
-        { sector: "প্রশিক্ষণ অবকাঠামো", amount: 1200 },
-        { sector: "ভাষা ও আইসিটি প্রশিক্ষণ", amount: 500 },
-        { sector: "উদ্যোক্তা তহবিল", amount: 700 },
-        { sector: "আন্তর্জাতিক প্লেসমেন্ট সাপোর্ট", amount: 500 }
+        { sector: "প্রশিক্ষণ ব্যয় (ভাষা ও প্রযুক্তি)", amount: 830 },
+        { sector: "প্রশিক্ষণার্থীদের সহায়তা (ভিসা, টিকিট)", amount: 350 },
+        { sector: "প্রশাসনিক ব্যয় (PMU, স্টাফ)", amount: 240 },
+        { sector: "অফিস স্থাপন ও অবকাঠামো", amount: 180 },
+        { sector: "সেমিনার, প্ল্যাটফর্ম, যাতায়াত প্রভৃতি", amount: 570 }
       ],
       expectedOutcomes: [
-        "মাদ্রাসা শিক্ষার্থীদের কর্মসংস্থান বৃদ্ধি",
-        "বৈদেশিক মুদ্রা অর্জন বৃদ্ধি",
-        "সামাজিক অন্তর্ভুক্তি",
-        "ধর্মীয় ও আধুনিক শিক্ষার সমন্বয়"
+        "উচ্চ আয়ের আন্তর্জাতিক আইটি কর্মসংস্থান বৃদ্ধি",
+        "বৈদেশিক মুদ্রা (Remittance) অর্জন উল্লেখযোগ্যভাবে বৃদ্ধি",
+        "বাংলাদেশ-জাপান অর্থনৈতিক ও কূটনৈতিক সম্পর্ক জোরদার",
+        "আন্তর্জাতিক শ্রমবাজারে মানসম্মত দক্ষ জনশক্তি তৈরি"
       ],
       risks: [
-        { risk: "মানসিক প্রতিবন্ধকতা", mitigation: "সচেতনতা কর্মসূচি" },
-        { risk: "দক্ষতার ঘাটতি", mitigation: "মানসম্মত প্রশিক্ষণ" },
-        { risk: "বিদেশে শোষণ", mitigation: "দূতাবাস সহায়তা সেল" },
-        { risk: "আন্তর্জাতিক গ্রহণযোগ্যতা", mitigation: "সরকারি সার্টিফিকেশন" },
+        { risk: "ভাষা শিক্ষায় পিছিয়ে পড়া", mitigation: "মেধাভিত্তিক নিবিড় প্রশিক্ষণ ও ট্র্যাকিং" },
+        { risk: "প্রযুক্তিগত দক্ষতার অমিল", mitigation: "জাপানি শিল্পের চাহিদা অনুযায়ী মডিউল তৈরি" },
+        { risk: "বিদেশে প্লেসমেন্ট জটিলতা", mitigation: "দূতাবাস সহায়তা সেল ও রিক্রুটমেন্ট সামিট" },
+        { risk: "আন্তর্জাতিক গ্রহণযোগ্যতা", mitigation: "সরকার-সমর্থিত সার্টিফিকেশন কাঠামো" },
         { risk: "মান নিয়ন্ত্রণ", mitigation: "যৌথ বোর্ড তদারকি" },
-        { risk: "ধর্মীয় উদ্বেগ", mitigation: "ঐচ্ছিক প্রোগ্রাম রাখা" }
+        { risk: "উপযুক্ত প্রার্থী নির্বাচন", mitigation: "কঠোর স্ক্রিনিং" }
       ],
-      conclusion: "মাদ্রাসা শিক্ষার্থীদের জাতীয় দক্ষতা ও বৈদেশিক কর্মসংস্থানে অন্তর্ভুক্তির মাধ্যমে বৃহৎ যুব জনগোষ্ঠীকে উৎপাদনশীল শক্তিতে রূপান্তর করা সম্ভব; যা সামাজিক সমতা, অর্থনৈতিক উন্নয়ন এবং আন্তর্জাতিক শ্রমবাজারে বাংলাদেশের অবস্থানকে শক্তিশালী করবে।"
+      conclusion: "এই কর্মসূচির মাধ্যমে উচ্চ দক্ষ প্রকৌশলী তৈরি করে জাপানের প্রযুক্তিনির্ভর শ্রমবাজারে সংযুক্ত করা সম্ভব হবে; যা নিরাপদ অভিবাসন, ডিজিটাল অর্থনীতি এবং আন্তর্জাতিক শ্রমবাজারে বাংলাদেশের অবস্থানকে শক্তিশালী করবে।"
     };
 
     const featureCards = [
-      { title: "Curriculum Integration", desc: "Vocational subjects at Dakhil and Alim level.", icon: "▣" },
-      { title: "Language Enablement", desc: "Arabic, English, and other languages for job readiness.", icon: "◉" },
-      { title: "Mandatory ICT", desc: "Digital skills baseline for employability and access.", icon: "▲" },
-      { title: "Domestic Tracks", desc: "IT, design, repair, agro-processing, tailoring, and e-commerce.", icon: "◆" },
-      { title: "Overseas Tracks", desc: "Caregiver, imam, interpreter, hospitality, and technical trades.", icon: "✦" },
-      { title: "Entrepreneur Support", desc: "Shariah-compliant finance, publishing, halal food, and platforms.", icon: "✳" }
+      { title: "Advanced Tech Training", desc: "Specialized in Software, Cloud, AI, and Robotics.", icon: "▣" },
+      { title: "Japanese Language", desc: "Targeting JLPT levels up to N3 for professional readiness.", icon: "◉" },
+      { title: "Cultural Orientation", desc: "Training in Kaizen, 5S, and Japanese business etiquette.", icon: "▲" },
+      { title: "Government Validation", desc: "Government-backed certification for global acceptance.", icon: "◆" },
+      { title: "Direct Placement", desc: "Recruitment summits, virtual interviews, and visa support.", icon: "✦" },
+      { title: "Capstone Projects", desc: "Practical problem solving and professional portfolio building.", icon: "✳" }
     ];
 
     const architectureLayers = [
       {
-        title: "Experience Layer",
-        badge: "Interface",
-        items: ["Student Portal", "Madrasa/TTC Admin", "Agency Dashboard", "Employer View"]
-      },
-      {
-        title: "Workflow Layer",
-        badge: "Service Flow",
-        items: ["Registration", "Training", "Assessment", "Certification", "Placement"]
-      },
-      {
-        title: "Data Layer",
-        badge: "Records",
-        items: ["Skill Database", "Student Profile", "Budget Data", "Outcome Metrics", "Risk Monitoring"]
-      },
-      {
-        title: "Governance Layer",
+        title: "Policy & Governance",
         badge: "Oversight",
-        items: ["Verification", "Joint Board Oversight", "Embassy Help Cell", "Compliance"]
+        items: ["Ministry of Expatriates", "Embassy in Tokyo", "NSDA Certification", "Bilateral Support"]
+      },
+      {
+        title: "Training & Experience",
+        badge: "Service Flow",
+        items: ["Language Training", "Tech Specialization", "Soft Skills & Etiquette", "Capstone Delivery"]
+      },
+      {
+        title: "Data & Systems",
+        badge: "Records",
+        items: ["Digital Platform (LMS)", "Tracking System", "Performance Metrics", "Skill Database"]
+      },
+      {
+        title: "Placement Layer",
+        badge: "Mobility",
+        items: ["Recruitment Summit", "Visa Processing", "Post-Placement Monitoring", "Alumni Network"]
       }
     ];
 
     const architectureStages = [
       {
         id: "01",
-        title: "Policy & Strategy",
-        desc: "Policy direction, institutional mandate, and implementation framework alignment."
+        title: "Inception & Selection",
+        desc: "Online applicant screening, written tests, and psychological evaluation."
       },
       {
         id: "02",
-        title: "Curriculum + Training",
-        desc: "Skill design, center delivery, and learner capacity development flow."
+        title: "Language Mastery",
+        desc: "Intensive 20-hour/week classes targeting JLPT N4/N3 proficiency."
       },
       {
         id: "03",
-        title: "Assessment + Certification",
-        desc: "Competency validation, licensing, and verified credential issuance."
+        title: "Tech & Soft Skills",
+        desc: "Advanced engineering modules, capstone projects, and Japanese business etiquette."
       },
       {
         id: "04",
-        title: "Placement + Finance",
-        desc: "Employment linkage, entrepreneurship support, and financing pathways."
+        title: "Placement & Linkage",
+        desc: "Virtual interviews, Japan Tech Career Summit, and direct employer matching."
       },
       {
         id: "05",
-        title: "Impact + Monitoring",
-        desc: "Outcome tracking, reporting, compliance review, and continuous oversight."
+        title: "Deployment & Monitoring",
+        desc: "Visa processing, travel assistance, and continuous tracking in Japan."
       }
     ];
 
@@ -166,160 +162,160 @@
       {
         id: "01",
         icon: "📣",
-        title: "Awareness + Counselling",
-        desc: "স্থানীয় মাদ্রাসা, শিক্ষার্থী, এবং অভিভাবক পর্যায়ে orientation ও pathway awareness."
+        title: "Application & Selection",
+        desc: "জাতীয় পর্যায়ে আবেদন, বাছাই পরীক্ষা এবং মনস্তাত্ত্বিক মূল্যায়নের মাধ্যমে প্রার্থী নির্বাচন।"
       },
       {
         id: "02",
         icon: "🪪",
-        title: "Digital Onboarding",
-        desc: "NID/Student ID, শিক্ষাগত প্রোফাইল, এবং language baseline digital record করা."
+        title: "Language Foundation",
+        desc: "৭ মাসব্যাপী জাপানি ভাষা প্রশিক্ষণ (JLPT N5 থেকে N3 লক্ষ্যমাত্রা)।"
       },
       {
         id: "03",
         icon: "🧪",
-        title: "Diagnostic Assessment",
-        desc: "Aptitude, language, এবং ICT readiness score-এর মাধ্যমে learner profiling."
+        title: "Tech Specialization",
+        desc: "সফটওয়্যার, ক্লাউড, এআই, এমবেডেড সিস্টেম নিয়ে সমান্তরাল কারিগরি প্রশিক্ষণ।"
       },
       {
         id: "04",
         icon: "🧭",
-        title: "Track Assignment",
-        desc: "Domestic, overseas, বা entrepreneurship pathway-এ learner mapping."
+        title: "Practicum & Capstone",
+        desc: "প্রতি শিক্ষার্থীর জন্য অন্তত ২টি বাস্তবমুখী প্রজেক্ট সম্পন্নকরণ।"
       },
       {
         id: "05",
         icon: "🎓",
-        title: "Training Execution",
-        desc: "Theory, practicum, soft skills, এবং guided learning delivery."
+        title: "Cultural Ready",
+        desc: "Kaizen, 5S, এবং Business Etiquette ও ইন্টারভিউ প্রস্তুতি।"
       },
       {
         id: "06",
         icon: "✅",
-        title: "Certification & Compliance",
-        desc: "Assessment, verification, licensing, এবং formal credential readiness."
+        title: "Recruitment Summits",
+        desc: "জাপানি নিয়োগদাতাদের সাথে সরাসরি সংযোগ ও ভার্চুয়াল ইন্টারভিউ।"
       },
       {
         id: "07",
         icon: "💼",
-        title: "Placement / Finance Linkage",
-        desc: "Job matching অথবা shariah-compliant entrepreneurship support connection."
+        title: "Visa & Deployment",
+        desc: "ভিসা প্রসেসিং, স্কিলড ইঞ্জিনিয়ার ক্যাটাগরিতে নিরাপদ অভিবাসন নিশ্চিতকরণ।"
       },
       {
         id: "08",
         icon: "📊",
-        title: "Post-Placement Monitoring",
-        desc: "Retention, income, safety, এবং feedback outcome tracking."
+        title: "Post-Placement Track",
+        desc: "জাপানে পৌঁছানোর পর কর্মসংস্থান ও কল্যাণের স্থিতিশীলতা মনিটরিং।"
       }
     ];
 
     const operationalSupport = [
-      { icon: "🌍", title: "Cultural & Labour Orientation", desc: "International workplace readiness and labour law awareness." },
-      { icon: "🛡", title: "Embassy Support Cell", desc: "Overseas safety escalation and welfare coordination." },
-      { icon: "🗂", title: "Skill Database", desc: "Tracking, matching, and candidate intelligence repository." },
-      { icon: "💳", title: "Shariah-Compliant Finance", desc: "Entrepreneur funding and ethical financial enablement." },
-      { icon: "📈", title: "Live KPI Dashboard", desc: "Ministry-level monitoring with visible program health indicators." },
-      { icon: "☎", title: "Grievance Channel", desc: "Placement complaints, escalation, and response management." }
+      { icon: "🌍", title: "Japan Culture Orientation", desc: "Training aligned with Japanese corporate protocols and workflow." },
+      { icon: "🛡", title: "Embassy Coordination", desc: "Diplomatic backing and rapid issue resolution via Tokyo embassy." },
+      { icon: "🗂", title: "Digital LMS", desc: "Centralized learning platform and candidate progress tracking." },
+      { icon: "💳", title: "Financial Assistance", desc: "Subsidized JLPT fees, visa, and flight costs for selected candidates." },
+      { icon: "📈", title: "Performance Dashboard", desc: "Live tracking of training results, JLPT pass rates, and placements." },
+      { icon: "☎", title: "Centralized PMU", desc: "Dedicated Project Management Unit to oversee operations and escalations." }
     ];
 
     const operationalPhases = [
       {
-        phase: "Phase A",
-        title: "Intake & Assessment",
+        phase: "Phase 1",
+        title: "Preparation & Selection",
         icon: "🧾",
-        owner: "Madrasa + Field Coordinators",
-        input: "Student profile, academic level, language score",
-        output: "Trade-ready candidate list"
+        owner: "Project Management Unit (PMU)",
+        input: "Applicant screening and initial diagnostics",
+        output: "500 vetted candidates"
       },
       {
-        phase: "Phase B",
-        title: "Training & Certification",
+        phase: "Phase 2",
+        title: "Intensive Training",
         icon: "🏫",
-        owner: "TTC/Training Partners",
-        input: "Curriculum pack, trainer availability",
-        output: "Certified graduates with skill grade"
+        owner: "ICT & Training Partners",
+        input: "Tech + Language + Cultural syllabus",
+        output: "Japan-Ready Certified Engineers"
       }
     ];
 
     const operationalControls = [
-      { step: "01", icon: "📝", activity: "Registration + Validation", actor: "Madrasa Desk", sla: "3 days" },
-      { step: "02", icon: "🧪", activity: "Diagnostic Assessment", actor: "Assessment Team", sla: "5 days" },
-      { step: "03", icon: "🧭", activity: "Batch Allocation", actor: "Program Office", sla: "2 days" },
-      { step: "04", icon: "🏫", activity: "Training Delivery", actor: "TTC/Partners", sla: "8–12 weeks" },
-      { step: "05", icon: "✅", activity: "Certification", actor: "Certification Body", sla: "1 week" },
-      { step: "06", icon: "📌", activity: "Placement & Follow-up", actor: "Placement Cell", sla: "Ongoing" }
+      { step: "01", icon: "📝", activity: "Screening & Admission", actor: "PMU & Partners", sla: "Month 1" },
+      { step: "02", icon: "🧪", activity: "Language Mastery (N5-N3)", actor: "Language Experts", sla: "Month 2-8" },
+      { step: "03", icon: "🧭", activity: "Technical Up-skilling", actor: "Tech Leads", sla: "Month 2-8" },
+      { step: "04", icon: "🏫", activity: "Capstone Projects", actor: "Mentors", sla: "Month 7-8" },
+      { step: "05", icon: "✅", activity: "Interviews & Matchmaking", actor: "Placement Cell", sla: "Month 9-11" },
+      { step: "06", icon: "📌", activity: "Relocation & Follow-up", actor: "Embassy Support", sla: "Month 12+" }
     ];
 
     const futureImprovements = [
       {
         icon: "🤖",
-        title: "AI-Assisted Skill Matching",
-        desc: "Placement prediction এবং learner-to-track matching আরও data-driven করা."
+        title: "AI-Assisted Matching",
+        desc: "জাপানি শিল্পের সুনির্দিষ্ট চাহিদার সাথে প্রার্থীর দক্ষতার ডেটা-ড্রিভেন ম্যাচিং।"
       },
       {
         icon: "📍",
-        title: "Regional Demand Dashboard",
-        desc: "Labour-market demand signals integrate করে region-wise planning improve করা."
+        title: "Ecosystem Expansion",
+        desc: "বাংলাদেশ হাই-টেক পার্ক ও জাপানি কোম্পানির মধ্যে দীর্ঘমেয়াদী شراکت (partnership) তৈরি।"
       },
       {
         icon: "📱",
-        title: "Mobile-First Onboarding",
-        desc: "Rural madrasa learners-এর জন্য easier registration and access experience."
+        title: "Centralized Alumni Network",
+        desc: "জাপানে প্রবাসীদের জন্য মেন্টরিং ও ব্রেইন-সার্কুলেশন হাব গঠন।"
       },
       {
         icon: "🛡",
-        title: "Embassy-Linked Safety Tracking",
-        desc: "Migrant safety, escalation, and welfare follow-up stronger করা."
+        title: "Bilateral Technology Transfer",
+        desc: "জাপানের সর্বাধুনিক প্রযুক্তি ও জ্ঞান স্থানীয় ইকোসিস্টেমে স্থানান্তরের সু্যোগ।"
       },
       {
         icon: "🌐",
-        title: "Alumni Impact Network",
-        desc: "Continuous follow-up, mentoring, and long-term impact monitoring enable করা."
+        title: "Scale-up Model",
+        desc: "পাইলট প্রজেক্টের সফলতার ভিত্তিতে আরও বৃহত্তর পরিসরে রেপ্লিকেবল মডেল বাস্তবায়ন।"
       }
     ];
 
-    const riskLevels = ["High", "High", "Medium", "Medium", "Medium", "Low"];
+    const riskLevels = ["High", "Medium", "Medium", "Low", "Low", "Low"];
 
     const roadmapHighlights = [
-      { phase: "Phase 1", title: "Platform Foundation", detail: "Registration, skill database, and baseline analytics setup." },
-      { phase: "Phase 2", title: "Scale & Placement", detail: "Training orchestration and domestic-overseas placement pipeline expansion." },
-      { phase: "Phase 3", title: "Intelligence Layer", detail: "AI-assisted matching, predictive insights, and long-term impact monitoring." }
+      { phase: "Year 1 Q1", title: "Recruitment & Setup", detail: "Launch portal, select 500 trainees, begin foundational courses." },
+      { phase: "Year 1 Q2-Q3", title: "Core Training", detail: "Advance language to N4/N3, complete tech modules, finish capstones." },
+      { phase: "Year 1 Q4", title: "Placement & Mobility", detail: "Conduct Japan Tech Career Summit, secure 200+ visas, and deploy." }
     ];
 
     const placementDecisionFlow = [
       {
         step: "01",
-        title: "Learner Registration",
-        desc: "Academic profile, trade interest, contact data, and institutional validation."
+        title: "Candidate Vetting",
+        desc: "Filtering based on technical background, testing, and cognitive readiness."
       },
       {
         step: "02",
-        title: "Readiness Assessment",
-        desc: "Aptitude, language ability, mobility preference, and baseline confidence scoring."
+        title: "Skill Verification",
+        desc: "Passing JLPT exams, completing technical assessments, and capstone review."
       },
       {
         step: "03",
-        title: "Pathway Decision",
-        desc: "Domestic job, overseas migration, or entrepreneurship route selection."
+        title: "Employer Alignment",
+        desc: "Mapping candidates to specific domains like AI, Cloud, or Robotics in Japan."
       },
       {
         step: "04",
-        title: "Enablement Package",
-        desc: "Training, certification, migration prep, or finance linkage based on chosen route."
+        title: "Interview & Selection",
+        desc: "Participating in virtual and physical interviews with Japanese HR representatives."
       },
       {
         step: "05",
-        title: "Placement & Follow-Up",
-        desc: "Employer matching, alumni support, grievance channel, and outcome tracking."
+        title: "Mobilization & Support",
+        desc: "Handling necessary legal paperwork, language polishing, and safe travel to Japan."
       }
     ];
 
     const governanceLoop = [
-      { icon: "🧾", title: "Capture", desc: "Registration, assessment, and baseline evidence collection." },
-      { icon: "🏫", title: "Deliver", desc: "Training, mentoring, assessment, and certification execution." },
-      { icon: "📊", title: "Measure", desc: "Attendance, skill score, placement rate, and dashboard monitoring." },
-      { icon: "🛡", title: "Govern", desc: "Risk, compliance, grievance response, and control decisions." },
-      { icon: "🔁", title: "Improve", desc: "Curriculum refresh, regional planning, and next-cycle optimization." }
+      { icon: "🧾", title: "Identify", desc: "Selecting high-potential engineering graduates nationwide." },
+      { icon: "🏫", title: "Equip", desc: "Dual training in Japanese language and advanced technology." },
+      { icon: "📊", title: "Validate", desc: "Assessing performance through JLPT and capstone milestones." },
+      { icon: "🛡", title: "Connect", desc: "Linking candidates to structured Japanese employment pathways." },
+      { icon: "🔁", title: "Sustain", desc: "Ensuring long-term welfare, retention, and ecosystem value." }
     ];
 
     const slides = [
